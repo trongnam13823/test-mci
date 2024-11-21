@@ -1,10 +1,10 @@
 import BlogFilter from "@/components/BlogFilter";
 
-import FormConsulting from "./FormConsulting";
-import BlogContent from "./BlogContent";
-import BlogSuggest from "./blogSuggest";
-import Courses from "./Courses";
-import BlogBreadcrumb from "./BlogBreadcrumb";
+import FormConsulting from "@/pages/BlogDetail/FormConsulting";
+import BlogContent from "@/pages/BlogDetail/BlogContent";
+import BlogSuggest from "@/pages/BlogDetail/BlogSuggest";
+import Courses from "@/pages/BlogDetail/Courses";
+import BlogBreadcrumb from "@/pages/BlogDetail/BlogBreadcrumb";
 // import { useEffect } from "react";
  
 export default function BlogDetail() {
